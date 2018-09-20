@@ -8,7 +8,7 @@ Copyright (C) 2014
   <string name="welcome">Bienvenue!</string>
   <string name="save_as">Sauvegarder sous [Alt+A]...</string>
   <string name="view">View</string>
-  <string name="about">About...</string>
+  <string name="about">Про програму...</string>
   <string name="about_me">About Me</string>
   <string name="current_password">Current Password</string>
   <string name="new_password">New Password</string>
