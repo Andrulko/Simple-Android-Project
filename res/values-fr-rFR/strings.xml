@@ -5,8 +5,8 @@ Crowdin.net Sample Android XML resource file
 Copyright (C) 2014
 -->
 <resources>
-  <string name="welcome">Welcome!</string>
-  <string name="save_as">Save as...</string>
+  <string name="welcome">Bienvenue!</string>
+  <string name="save_as">Sauvegarder sous [Alt+A]...</string>
   <string name="view">View</string>
   <string name="about">About...</string>
   <string name="about_me">About Me</string>
@@ -21,5 +21,5 @@ Copyright (C) 2014
   <string name="search_in_messages">Search in messages</string>
   <string name="compose_messages">Compose Message</string>
   <string name="no_data">No date provided</string>
-  <string name="quick_start">Quick Start</string>
+  <string name="quick_start">The most powerful</string>
 </resources>
