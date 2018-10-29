@@ -5,11 +5,11 @@ Crowdin.net Sample Android XML resource file
 Copyright (C) 2014
 -->
 <resources>
-  <string name="welcome">Welcome!</string>
-  <string name="save_as">Save as...</string>
-  <string name="view">View</string>
-  <string name="about">About...</string>
-  <string name="about_me">About Me</string>
+  <string name="welcome">欢迎！</string>
+  <string name="save_as">另存为...</string>
+  <string name="view">看</string>
+  <string name="about">关于...</string>
+  <string name="about_me">关于我的</string>
   <string name="current_password">Current Password</string>
   <string name="new_password">New Password</string>
   <string name="confirm_password">Confirm New Password</string>
