@@ -10,8 +10,8 @@ Copyright (C) 2014
   <string name="view">看</string>
   <string name="about">关于...</string>
   <string name="about_me">关于我的</string>
-  <string name="current_password">Current Password</string>
-  <string name="new_password">New Password</string>
+  <string name="current_password">当前的密码</string>
+  <string name="new_password">新密码</string>
   <string name="confirm_password">Confirm New Password</string>
   <string name="change_password">Change Password</string>
   <string name="password_recover">Password recover</string>
