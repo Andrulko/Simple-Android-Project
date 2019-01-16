@@ -7,12 +7,12 @@ Copyright (C) 2014
 <resources>
   <string name="welcome">Абв!</string>
   <string name="save_as">Перевод...</string>
-  <string name="view">View</string>
-  <string name="about">About...</string>
+  <string name="view">Blick</string>
+  <string name="about">Über...</string>
   <string name="about_me">About Me</string>
   <string name="current_password">Current Password</string>
-  <string name="new_password">New Password</string>
-  <string name="confirm_password">Confirm New Password</string>
+  <string name="new_password">Neues Passwort</string>
+  <string name="confirm_password">Neues Kennwort bestätigen</string>
   <string name="change_password">Change Password</string>
   <string name="password_recover">Password recover</string>
   <string name="password_reset_success">Перевод2222!</string>
@@ -21,5 +21,5 @@ Copyright (C) 2014
   <string name="search_in_messages">Search in messages</string>
   <string name="compose_messages">Nachricht verfassen123312312</string>
   <string name="no_data">No date provided</string>
-  <string name="quick_start">The most powerful</string>
+  <string name="quick_start">Some translation</string>
 </resources>
