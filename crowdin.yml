@@ -1,4 +1,4 @@
-commit_message: Hooray! New translations were made for %language% in %original_file_name%
+commit_message: %language% has new translations for %original_file_name%
 append_commit_message: false
 files:
   - source: /res/values/*.xml
