@@ -1,3 +1,6 @@
+commit_message: false
+append_commit_message: 'Hooray! New translations were made in %language% for %original_file_name'
+
 files:
   - source: /res/values/*.xml
     translation: /res/values-%two_letters_code%/%original_file_name%
