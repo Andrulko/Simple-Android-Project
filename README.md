@@ -1,3 +1,3 @@
-# Simple-Android-Project
+# Abc
 
 A string for translation
