@@ -6,8 +6,8 @@ Copyright (C) 2014
 -->
 <resources>
   <string name="welcome">Translation!</string>
-  <string name="save_as">Save as...</string>
-  <string name="view">View</string>
+  <string name="save_as">Enregistrer sous...</string>
+  <string name="view">Vue</string>
   <string name="about">About...</string>
   <string name="about_me">About Me</string>
   <string name="current_password">Current Password</string>
