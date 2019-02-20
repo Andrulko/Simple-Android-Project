@@ -1,10 +1,15 @@
-<?xml version="1.0" encoding="UTF-8"?>
+<?xml version="1.0" encoding="utf-8"?>
 
 <resources>
-  <string name="current_password">Current %s Password</string>
-  <string name="new_password">New Password %d</string>
-  <string name="confirm_password">Confirm New Password</string>
-  <string name="change_password">Change Password</string>
-  <string name="password_recover">Password recover</string>
-  <string name="password_recover2323" maxLength="15" comment="hello world!">New</string>
+    <plurals name="numberOfSongsAvailable">
+        <!--
+             As a developer, you should always supply "one" and "other"
+             strings. Your translators will know which strings are actually
+             needed for their language. Always include %d in "one" because
+             translators will need to use %d for languages where "one"
+             doesn't mean 1 (as explained above).
+          -->
+        <item quantity="one">%d song found.</item>
+        <item quantity="other">%d songs found.</item>
+    </plurals>
 </resources>
