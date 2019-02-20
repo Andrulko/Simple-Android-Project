@@ -9,7 +9,7 @@
              translators will need to use %d for languages where "one"
              doesn't mean 1 (as explained above).
           -->
-        <item quantity="one">%d song found.</item>
-        <item quantity="other">%d songs found.</item>
+        <item quantity="one">%d chanson trouvés.</item>
+        <item quantity="other">%d chansons.</item>
     </plurals>
 </resources>
