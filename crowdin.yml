@@ -2,4 +2,4 @@ commit_message: Breaking news! File %original_file_name% has new translations in
 append_commit_message: false
 files:
   - source: /res/values/*.xml
-    translation: /res/values-%locale%/%original_file_name%
+    translation: /res/values-%android_code%/%original_file_name%
