@@ -9,7 +9,7 @@
              translators will need to use %d for languages where "one"
              doesn't mean 1 (as explained above).
           -->
-        <item quantity="one">crwdns5807504:1%dcrwdne5807504:1</item>
-        <item quantity="other">crwdns5807504:5%dcrwdne5807504:5</item>
+        <item quantity="one">crwdns5807526:1%dcrwdne5807526:1</item>
+        <item quantity="other">crwdns5807526:5%dcrwdne5807526:5</item>
     </plurals>
 </resources>
