@@ -13,4 +13,5 @@
         <item quantity="other">%d songs gefunden.</item>
     </plurals>
     <string name="smth" comment="Button on the main page" maxLength="10">Hallo Welt</string>
+    <string name="smth2" comment="Button on the main page" maxLength="15">The most powerful</string>
 </resources>
