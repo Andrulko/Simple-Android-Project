@@ -12,5 +12,5 @@
         <item quantity="one">%d song found.</item>
         <item quantity="other">%d songs found.</item>
     </plurals>
-    <string name="smth">Hello World</string>
+    <string name="smth" comment="Button on the main page" maxLength="10">Hello World</string>
 </resources>
