@@ -15,4 +15,5 @@
         <item quantity="other">%d пісні знайшли.</item>
     </plurals>
     <string name="smth" comment="Button on the main page" maxLength="10">Hello World</string>
+    <string name="smth2" comment="Button on the main page" maxLength="15">The most powerful</string>
 </resources>
