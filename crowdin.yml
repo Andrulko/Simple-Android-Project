@@ -3,3 +3,5 @@ append_commit_message: false
 files:
   - source: /res/values/*.xml
     translation: /android/values-%two_letters_code%/%file_name%.%two_letters_code%.xml
+  - source: /res/data/*.xml
+    translation: /android/data/values-%two_letters_code%/%file_name%.%two_letters_code%.xml
