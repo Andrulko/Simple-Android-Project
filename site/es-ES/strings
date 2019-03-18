@@ -9,9 +9,9 @@
              translators will need to use %d for languages where "one"
              doesn't mean 1 (as explained above).
           -->
-        <item quantity="one">%d song found.</item>
-        <item quantity="other">%d songs found.</item>
+        <item quantity="one">%d tema.</item>
+        <item quantity="other">%d canciones encontradoabc.</item>
     </plurals>
-    <string name="smth" comment="Button on the main page" maxLength="10">Hello World</string>
-    <string name="smth2" comment="Button on the main page" maxLength="15">The most powerful</string>
+    <string name="smth" comment="Button on the main page" maxLength="10">Hola Mundo</string>
+    <string name="smth2" comment="Button on the main page" maxLength="15">El más poderoso</string>
 </resources>
