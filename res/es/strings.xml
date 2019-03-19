@@ -12,7 +12,7 @@
         <item quantity="one">%d song found.</item>
         <item quantity="other">%d songs found.</item>
     </plurals>
-    <string name="smth" comment="Button on the main page" maxLength="10">Hello World</string>
+    <string name="smth" comment="Button on the main page" maxLength="10">Hola mundo</string>
     <string name="smth2" comment="Button on the main page" maxLength="15">The most powerful. ANother sentence.</string>
-    <string name="sadasd" comment="Button on the main page" maxLength="15">New string</string>
+    <string name="sadasd" comment="Button on the main page" maxLength="15">Nueva cadena</string>
 </resources>
