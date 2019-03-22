@@ -15,4 +15,5 @@
     <string name="smth" comment="Button on the main page" maxLength="10">Hallo Welt</string>
     <string name="smth2" comment="Button on the main page" maxLength="15">Die mächtigsten</string>
     <string name="sadasd" comment="Button on the main page" maxLength="15">Neue Zeichenfol</string>
+    <string name="sadasd313132" comment="Button on the main page" maxLength="15">New string 2</string>
 </resources>
