@@ -16,4 +16,5 @@
     <string name="smth2" comment="Button on the main page" maxLength="15">The most powerful. ANother sentence.</string>
     <string name="sadasd" comment="Button on the main page" maxLength="15">New string</string>
     <string name="sadasd313132" comment="Button on the main page" maxLength="15">New string 2</string>
+    <string name="sadasd313132312313" comment="Button on the main page" maxLength="15">Brand new string</string>
 </resources>
