@@ -12,9 +12,10 @@
         <item quantity="one">%d song found.</item>
         <item quantity="other">%d songs found.</item>
     </plurals>
-    <string name="smth" comment="Button on the main page" maxLength="10">Hello World</string>
-    <string name="smth2" comment="Button on the main page" maxLength="15">The most powerful. ANother sentence.</string>
-    <string name="sadasd" comment="Button on the main page" maxLength="15">New string</string>
-    <string name="sadasd313132" comment="Button on the main page" maxLength="15">New string 2</string>
-    <string name="sadasd313132312313" comment="Button on the main page" maxLength="15">Brand new string</string>
+    <string name="smth" comment="Button on the main page" maxLength="50">Hello World</string>
+    <string name="smth2" comment="Button on the main page" maxLength="50">The most powerful. ANother sentence.</string>
+    <string name="sadasd" comment="Button on the main page" maxLength="50">New string</string>
+    <string name="sadasd313132" comment="Button on the main page" maxLength="50">New string 2</string>
+    <string name="sadasd313132312313" comment="Button on the main page" maxLength="50">Brand new string</string>
+    <string name="sadasd31313231231sad3" comment="Button on the main page" maxLength="50">Another string</string>
 </resources>
