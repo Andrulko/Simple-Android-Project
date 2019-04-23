@@ -12,7 +12,7 @@ msgctxt "Another ID"
 msgid "Another text"
 msgstr ""
 
-msgid "Another texts"
+msgid "Another texts {code} $Name$"
 msgstr ""
 
 msgid "One file removed"
