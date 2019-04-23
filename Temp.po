@@ -7,3 +7,13 @@ msgstr ""
 
 msgid "Another text"
 msgstr ""
+
+msgid "Another texts"
+msgstr ""
+
+msgid "One file removed"
+msgid_plural "%d files removed"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
+
