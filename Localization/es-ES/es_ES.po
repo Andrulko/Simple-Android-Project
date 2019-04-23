@@ -10,7 +10,7 @@ msgstr ""
 "Last-Translator: Andriy Poznakhovskyy (Andrulko)\n"
 "Language-Team: Spanish\n"
 "Language: es_ES\n"
-"PO-Revision-Date: 2019-04-23 15:29\n"
+"PO-Revision-Date: 2019-04-23 15:48\n"
 
 # Some extra context for translators
 msgid "Some text"
@@ -23,7 +23,7 @@ msgctxt "Another ID"
 msgid "Another text"
 msgstr ""
 
-msgid "Another texts"
+msgid "Another texts {code} $Name$"
 msgstr ""
 
 msgid "One file removed"
