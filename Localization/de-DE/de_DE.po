@@ -10,11 +10,12 @@ msgstr ""
 "Last-Translator: Andriy Poznakhovskyy (Andriy_Crowdin)\n"
 "Language-Team: German\n"
 "Language: de_DE\n"
-"PO-Revision-Date: 2019-04-23 15:11\n"
+"PO-Revision-Date: 2019-04-23 15:13\n"
 
+# Some extra context for translators
 msgid "Some text"
-msgstr ""
+msgstr "Translation for the 1st string"
 
 msgid "Another text"
-msgstr ""
+msgstr "Another translation"
 
