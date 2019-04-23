@@ -1,0 +1,21 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: demo-2304\n"
+"X-Crowdin-Language: de\n"
+"X-Crowdin-File: /master/Temp.po\n"
+"Project-Id-Version: demo-2304\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: Andriy Poznakhovskyy (Andriy_Crowdin)\n"
+"Language-Team: German\n"
+"Language: de_DE\n"
+"PO-Revision-Date: 2019-04-23 15:13\n"
+
+# Some extra context for translators
+msgid "Some text"
+msgstr "Translation for the 1st string"
+
+msgid "Another text"
+msgstr "Another translation"
+
