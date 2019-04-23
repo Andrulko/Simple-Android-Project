@@ -19,3 +19,8 @@ msgstr "Translation for the 1st string"
 msgid "Another text"
 msgstr "Another translation"
 
+msgid "One file removed"
+msgid_plural "%d files removed"
+msgstr[0] ""
+msgstr[1] ""
+msgstr[2] ""
