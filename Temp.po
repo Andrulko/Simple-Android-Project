@@ -1,6 +1,7 @@
 msgid ""
 msgstr ""
 
+# Some extra context for translators
 msgid "Some text"
 msgstr ""
 
