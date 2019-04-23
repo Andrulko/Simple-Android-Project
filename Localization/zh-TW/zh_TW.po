@@ -1,0 +1,32 @@
+msgid ""
+msgstr ""
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: crowdin.com\n"
+"X-Crowdin-Project: ggl12\n"
+"X-Crowdin-Language: zh-TW\n"
+"X-Crowdin-File: /master/Temp.po\n"
+"Project-Id-Version: ggl12\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Last-Translator: Andriy Poznakhovskyy (Andrulko)\n"
+"Language-Team: Chinese Traditional\n"
+"Language: zh_TW\n"
+"PO-Revision-Date: 2019-04-23 15:29\n"
+
+# Some extra context for translators
+msgid "Some text"
+msgstr ""
+
+msgid "Another text"
+msgstr ""
+
+msgctxt "Another ID"
+msgid "Another text"
+msgstr ""
+
+msgid "Another texts"
+msgstr ""
+
+msgid "One file removed"
+msgid_plural "%d files removed"
+msgstr[0] ""
+
