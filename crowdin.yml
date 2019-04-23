@@ -1,8 +1,5 @@
 commit_message: Breaking news! File %original_file_name% has new translations in %language%
 append_commit_message: false
 files:
-  - source: /res/values/*.xml
-    translation: /test2/res/values-%two_letters_code%/%original_file_name%
-  - source: /*.html
-    translation: /test3/values-%two_letters_code%/%original_file_name%
-    content_segmentation: 0
+  - source: /Temp.po
+    translation: /Localization/%locale%/%locale_with_underscore%.po
