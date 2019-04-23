@@ -8,6 +8,10 @@ msgstr ""
 msgid "Another text"
 msgstr ""
 
+msgctxt "Another ID"
+msgid "Another text"
+msgstr ""
+
 msgid "Another texts"
 msgstr ""
 
