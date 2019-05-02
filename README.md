@@ -18,10 +18,10 @@ $ ls -al ~/.ssh
 3. Check the directory listing to see if you already have a public SSH key.
 
 - 12
-  ```shell
+    ```shell
   $ ls -al ~/.ssh
   # Lists the files in your .ssh directory, if they exist
-  ```
+    ```
 
 By default, the filenames of the public keys are one of the following:
 
