@@ -14,7 +14,7 @@ productVersions:
   ```shell
 $ ls -al ~/.ssh
 # Lists the files in your .ssh directory, if they exist
-        ```
+  ```
 3. Check the directory listing to see if you already have a public SSH key.
 
 - 12
