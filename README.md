@@ -11,10 +11,10 @@ productVersions:
 {{ site.data.reusables.command_line.open_the_multi_os_terminal }}
 2. Enter `ls -al ~/.ssh` to see if existing SSH keys are present:
 
-```shell
+  ```shell
 $ ls -al ~/.ssh
 # Lists the files in your .ssh directory, if they exist
-```
+  ```
 3. Check the directory listing to see if you already have a public SSH key.
 
 - 12
