@@ -2,5 +2,4 @@ commit_message: Breaking news! File %original_file_name% has new translations in
 append_commit_message: false
 files:
   - source: /res/values/*.xml
-    translation: /abc/%two_letters_code%/%original_file_name%
-    translate_attributes: 0
+    translation: /res/values-%two_letters_code%/%file_name%.txt
