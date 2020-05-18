@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <plurals name="numberOfSongsAvailable">
+        <item quantity="zero">%d songs found.</item>
+        <!--
+             As a developer, you should always supply "one" and "other"
+             strings. Your translators will know which strings are actually
+             needed for their language. Always include %d in "one" because
+             translators will need to use %d for languages where "one"
+             doesn't mean 1 (as explained above).
+          -->
+        <item quantity="one">%d song found.</item>
+        <item quantity="two">%d songs found.</item>
+        <item quantity="few">%d songs found.</item>
+        <item quantity="many">%d songs found.</item>
+        <item quantity="other">%d songs found.</item>
+    </plurals>
+    <string name="smth" comment="Button on the main page" maxLength="50">Hello World</string>
+    <string name="smth2" comment="Button on the main page" maxLength="50">The most powerful. ANother sentence.</string>
+    <string name="sadasd" comment="Button on the main page" maxLength="50">New string</string>
+    <string name="sadasd313132" comment="Button on the main page" maxLength="50">New string 2</string>
+    <string name="sadasd313132312313" comment="Button on the main page" maxLength="50">Brand new string</string>
+    <string name="sadasd31313231231sad3" comment="Button on the main page" maxLength="50">Another string</string>
+    <string name="sadasd31313231231sad3dasdsd" comment="Button on the main page" maxLength="50">Some new string today</string>
+    <string name="new-id" comment="Button on the main page" maxLength="50">Hi Crowdin</string>
+</resources>
