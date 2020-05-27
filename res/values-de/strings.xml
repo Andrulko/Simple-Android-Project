@@ -19,4 +19,6 @@
     <string name="sadasd31313231231sad3" comment="Button on the main page" maxLength="50">Another string</string>
     <string name="sadasd31313231231sad3dasdsd" comment="Button on the main page" maxLength="50">Some new string today</string>
     <string name="new-id" comment="Button on the main page" maxLength="50">Hi De</string>
+    <string name="new-id222" comment="Button on the main page" maxLength="50">Hi Crowdin 222</string>
+    <string name="new-id2223231">Перевод ветки немецкий</string>
 </resources>
