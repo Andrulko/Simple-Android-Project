@@ -11,7 +11,7 @@
         <item quantity="one">%d song found.</item>
         <item quantity="other">%d songs found.</item>
     </plurals>
-    <string name="smth" comment="Button on the main page" maxLength="50">Hello World</string>
+    <string name="smth" comment="Button on the main page" maxLength="50">Guten Tag  %name% 2</string>
     <string name="smth2" comment="Button on the main page" maxLength="50">The most powerful. ANother sentence.</string>
     <string name="sadasd" comment="Button on the main page" maxLength="50">New string</string>
     <string name="sadasd313132" comment="Button on the main page" maxLength="50">New string 2</string>
@@ -19,4 +19,5 @@
     <string name="sadasd31313231231sad3" comment="Button on the main page" maxLength="50">Another string</string>
     <string name="sadasd31313231231sad3dasdsd" comment="Button on the main page" maxLength="50">Some new string today</string>
     <string name="new-id" comment="Button on the main page" maxLength="50">Hi De</string>
+    <string name="new-id222" comment="Button on the main page" maxLength="50">Hi Crowdin 222</string>
 </resources>
