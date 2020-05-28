@@ -1,5 +1,4 @@
-commit_message: Breaking news! File %original_file_name% has new translations in %language%
-append_commit_message: false
 files:
   - source: /res/values/*.xml
     translation: /res/values-%two_letters_code%/%original_file_name%
+    update_option: update_as_unapproved
