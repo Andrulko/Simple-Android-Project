@@ -1,4 +1,5 @@
 files:
   - source: /res/values/*.xml
-    translation: /res/values-%two_letters_code%/%original_file_name%
-    update_option: update_as_unapproved
+    ignore:
+      - /res/values/*_abc.js
+    translation: /res/values-%two_letters_code%/%file_name%.%locale%.js
