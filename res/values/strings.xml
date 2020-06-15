@@ -21,5 +21,6 @@
     <string name="sadasd31313231231sad3dasdsd" comment="Button on the main page" maxLength="50">Some new string today</string>
      <string name="new-id" comment="Button on the main page" maxLength="50">Hi Crowdin</string>
     <string name="new-id222" comment="Button on the main page" maxLength="50">Hi Crowdin 222</string>
-    <string name="new-id3231231">CREATE PROJECT</string>
+    <string name="new-id3231231">GET STARTED FOR FREE</string>
+    <string name="new-id3231231">SUPER NEW STRING</string>
 </resources>
