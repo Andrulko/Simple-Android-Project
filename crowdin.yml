@@ -1,3 +1,3 @@
 files:
-  - source: /res/values/**/*.xml
-    translation: /res/values/**/%file_name%.%locale%.resx
+  - source: /res/values/*.xml
+    translation: /TranslationsGfK/values-%locale%/%original_file_name%
